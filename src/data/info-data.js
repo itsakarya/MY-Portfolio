@@ -16,11 +16,11 @@ const infoData = {
       textColor: "#05deba",
       duration: "jan 2023 – july 2023",
       aboutRolePara1:
-        "Worked With Analytics Team on features of Internal App which involves visualisation tools such as Form Builder, Table Manager, and charts.",
+        " Part of the Analytics Team worked as a Frontend Developer. Worked on features of Internal App which involves visualisation tools such as Form Builder, Table Manager, and charts.",
       aboutRolePara2: 
-        "Collaborated with cross-functional teams to ensure seamless integration of visualisation tools features into the app.",
+        "Implemented a critical feature that aimed to enhance the application by introducing a easy option for creating Approval Requests for Restricted API Templates. In addition, I designed a seamless user experience by enabling users to select their desired environments and clusters before being directed to the Approval Request creation page.",
       aboutRolePara3:
-        "Conducted thorough unit testing for a few features using Jest to ensure the functionality and reliability of the features I developed",  
+        "Implemented a custom Hook for a crucial feature that involved polling Jenkins logs during a branch-triggered build-in-progress. This optimised the development workflow by providing real-time updates on the build status. Collaborated with cross-functional teams to ensure seamless integration of visualisation tools features into the app. Also ensuring the reliability and robustness of the implemented features, I diligently performed unit testing using JEST, a powerful testing framework. By creating test cases and writing assertions, I verified the functionality of the specific features I worked on, ensuring they met the required specifications and behaved as expected.",  
         technologies: "React.js, Redux, SASS, Jest, GIT",
     },
     {
